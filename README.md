@@ -1,4 +1,4 @@
-# sprixen-com
+# Sprixen
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,159 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-sprixen-com is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://sprixen.com/
+Sprixen provides an AI-powered game asset generation platform, enabling developers to create sprites, animations, 3D models, worlds, VFX, and music in a consistent style via a REST API and MCP integration. Users can generate assets programmatically, customize prompts, and retrieve results through endpoints for generations, animations, character packages, projects, tiles, worlds, and music, with support for webhooks and rate limits.
+
+**Areas:** Game Asset Generation · AI Art · Audio Generation · Developer Tools
+
+## Sprixen on APIs.io
+
+Everything profiled for Sprixen is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/sprixen-com/](https://apis.io/providers/sprixen-com/)** — or go straight to one of the APIs or properties below.
+
+### APIs (38)
+
+- [Sprixen 3D Studio API](https://apis.io/apis/sprixen-com/sprixen-com-3d-studio-api/) — The 3D Studio API from Sprixen — 19 operation(s) for 3d studio.
+- [Sprixen Admin: Drops API](https://apis.io/apis/sprixen-com/sprixen-com-admin-drops-api/) — The Admin: Drops API from Sprixen — 4 operation(s) for admin: drops.
+- [Sprixen Admin: Roblox Ready Packs API](https://apis.io/apis/sprixen-com/sprixen-com-admin-roblox-ready-packs-api/) — The Admin: Roblox Ready Packs API from Sprixen — 3 operation(s) for admin: roblox ready packs.
+- [Sprixen AI Tabletop API](https://apis.io/apis/sprixen-com/sprixen-com-ai-tabletop-api/) — The AI Tabletop API from Sprixen — 18 operation(s) for ai tabletop.
+- [Sprixen Analytics API](https://apis.io/apis/sprixen-com/sprixen-com-analytics-api/) — The Analytics API from Sprixen — 2 operation(s) for analytics.
+- [Sprixen Animations API](https://apis.io/apis/sprixen-com/sprixen-com-animations-api/) — The Animations API from Sprixen — 11 operation(s) for animations.
+- [Sprixen API Keys API](https://apis.io/apis/sprixen-com/sprixen-com-api-keys-api/) — The API Keys API from Sprixen — 2 operation(s) for api keys.
+- [Sprixen Authentication API](https://apis.io/apis/sprixen-com/sprixen-com-authentication-api/) — The Authentication API from Sprixen — 5 operation(s) for authentication.
+- [Sprixen Billing API](https://apis.io/apis/sprixen-com/sprixen-com-billing-api/) — The Billing API from Sprixen — 7 operation(s) for billing.
+- [Sprixen Character Studio 3D API](https://apis.io/apis/sprixen-com/sprixen-com-character-studio-3d-api/) — The Character Studio 3D API from Sprixen — 6 operation(s) for character studio 3d.
+- [Sprixen Chat API](https://apis.io/apis/sprixen-com/sprixen-com-chat-api/) — The chat API from Sprixen — 5 operation(s) for chat.
+- [Sprixen DnD Tools API](https://apis.io/apis/sprixen-com/sprixen-com-dnd-tools-api/) — The DnD Tools API from Sprixen — 10 operation(s) for dnd tools.
+- [Sprixen Drops API](https://apis.io/apis/sprixen-com/sprixen-com-drops-api/) — The Drops API from Sprixen — 6 operation(s) for drops.
+- [Sprixen Drops (Foundry manifest) API](https://apis.io/apis/sprixen-com/sprixen-com-drops-foundry-manifest-api/) — The Drops (Foundry manifest) API from Sprixen — 2 operation(s) for drops (foundry manifest).
+- [Sprixen Feedback API](https://apis.io/apis/sprixen-com/sprixen-com-feedback-api/) — The Feedback API from Sprixen — 1 operation(s) for feedback.
+- [Sprixen Game Creator API](https://apis.io/apis/sprixen-com/sprixen-com-game-creator-api/) — The Game Creator API from Sprixen — 16 operation(s) for game creator.
+- [Sprixen Game-dev skills API](https://apis.io/apis/sprixen-com/sprixen-com-game-dev-skills-api/) — The Game-dev skills API from Sprixen — 4 operation(s) for game-dev skills.
+- [Sprixen Generation API](https://apis.io/apis/sprixen-com/sprixen-com-generation-api/) — The Generation API from Sprixen — 6 operation(s) for generation.
+- [Sprixen Generation jobs API](https://apis.io/apis/sprixen-com/sprixen-com-generation-jobs-api/) — The Generation jobs API from Sprixen — 4 operation(s) for generation jobs.
+- [Sprixen Health API](https://apis.io/apis/sprixen-com/sprixen-com-health-api/) — The Health API from Sprixen — 1 operation(s) for health.
+- [Sprixen Isometric API](https://apis.io/apis/sprixen-com/sprixen-com-isometric-api/) — The Isometric API from Sprixen — 2 operation(s) for isometric.
+- [Sprixen Maps API](https://apis.io/apis/sprixen-com/sprixen-com-maps-api/) — The Maps API from Sprixen — 6 operation(s) for maps.
+- [Sprixen Mod Builder API](https://apis.io/apis/sprixen-com/sprixen-com-mod-builder-api/) — The Mod Builder API from Sprixen — 12 operation(s) for mod builder.
+- [Sprixen Music Studio API](https://apis.io/apis/sprixen-com/sprixen-com-music-studio-api/) — The Music Studio API from Sprixen — 5 operation(s) for music studio.
+- [Sprixen Onboarding API](https://apis.io/apis/sprixen-com/sprixen-com-onboarding-api/) — The Onboarding API from Sprixen — 1 operation(s) for onboarding.
+- [Sprixen Parallax Backgrounds API](https://apis.io/apis/sprixen-com/sprixen-com-parallax-backgrounds-api/) — The Parallax Backgrounds API from Sprixen — 2 operation(s) for parallax backgrounds.
+- [Sprixen Project style API](https://apis.io/apis/sprixen-com/sprixen-com-project-style-api/) — The Project style API from Sprixen — 2 operation(s) for project style.
+- [Sprixen Projects API](https://apis.io/apis/sprixen-com/sprixen-com-projects-api/) — The Projects API from Sprixen — 2 operation(s) for projects.
+- [Sprixen Roblox Creator Pack API](https://apis.io/apis/sprixen-com/sprixen-com-roblox-creator-pack-api/) — The Roblox Creator Pack API from Sprixen — 6 operation(s) for roblox creator pack.
+- [Sprixen Roblox Ready Packs API](https://apis.io/apis/sprixen-com/sprixen-com-roblox-ready-packs-api/) — The Roblox Ready Packs API from Sprixen — 5 operation(s) for roblox ready packs.
+- [Sprixen Sequences API](https://apis.io/apis/sprixen-com/sprixen-com-sequences-api/) — The Sequences API from Sprixen — 2 operation(s) for sequences.
+- [Sprixen Sprites API](https://apis.io/apis/sprixen-com/sprixen-com-sprites-api/) — The Sprites API from Sprixen — 5 operation(s) for sprites.
+- [Sprixen Sprixen Live API](https://apis.io/apis/sprixen-com/sprixen-com-sprixen-live-api/) — The Sprixen Live API from Sprixen — 38 operation(s) for sprixen live.
+- [Sprixen Tile Packs API](https://apis.io/apis/sprixen-com/sprixen-com-tile-packs-api/) — The Tile Packs API from Sprixen — 2 operation(s) for tile packs.
+- [Sprixen Tile Packs — Custom Generation API](https://apis.io/apis/sprixen-com/sprixen-com-tile-packs-custom-generation-api/) — The Tile Packs — Custom Generation API from Sprixen — 3 operation(s) for tile packs — custom generation.
+- [Sprixen Tilesets API](https://apis.io/apis/sprixen-com/sprixen-com-tilesets-api/) — The Tilesets API from Sprixen — 2 operation(s) for tilesets.
+- [Sprixen Users API](https://apis.io/apis/sprixen-com/sprixen-com-users-api/) — The Users API from Sprixen — 4 operation(s) for users.
+- [Sprixen VFX Studio API](https://apis.io/apis/sprixen-com/sprixen-com-vfx-studio-api/) — The VFX Studio API from Sprixen — 7 operation(s) for vfx studio.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [Sprixen Agentic Access](https://apis.io/agentic-access/sprixen-com/sprixen-com-agentic-access/)
+
+#### JSON Schema (6)
+
+The data models the API reads and writes.
+
+- [CreateAnimationBatchDto](https://apis.io/schemas/sprixen-com/sprixen-com-create-animation-batch-dto/)
+- [CreateAnimationDto](https://apis.io/schemas/sprixen-com/sprixen-com-create-animation-dto/)
+- [CreateAnimationWithSpriteDto](https://apis.io/schemas/sprixen-com/sprixen-com-create-animation-with-sprite-dto/)
+- [CreateGenerationDto](https://apis.io/schemas/sprixen-com/sprixen-com-create-generation-dto/)
+- [CreateMovesetDto](https://apis.io/schemas/sprixen-com/sprixen-com-create-moveset-dto/)
+- [CreateVfxDto](https://apis.io/schemas/sprixen-com/sprixen-com-create-vfx-dto/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Sprixen Com Context](https://apis.io/jsonld/sprixen-com/sprixen-com-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [Sprixen API Rules](https://apis.io/rules/sprixen-com/sprixen-com-rules/)
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Sprixen Authentication](https://apis.io/security/sprixen-com/sprixen-com-authentication/)
+- [Sprixen Domain Security](https://apis.io/security/sprixen-com/sprixen-com-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://sprixen.com/)
+- [Documentation](https://sprixen.com/docs)
+- [Getting started](https://sprixen.com/register)
+- [API reference](https://sprixen.com/docs)
+- [Blog](https://sprixen.com/blog)
+- [Terms of service](https://sprixen.com/terms)
+- [Privacy policy](https://sprixen.com/privacy)
+
+## API Evangelist rating
+
+**Kin Score 42.5** — developing · rubric 0.28.0 · scored 2026-11-25
+
+| Facet | Score |
+|---|---|
+| Discoverability | 57.1 |
+| Contract quality | 51.4 |
+| Contract governance | 79.1 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 52.4 |
+| Access clarity | 17.0 |
+
+**Agent readiness 44.4** — agent-ready (gated down from agent-native)
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | served (partial credit) |
+| Idempotency | — |
+| Error Semantics | derived (partial credit) |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | yes |
+| Delegated Identity | served (partial credit) |
+| Protected Resource Metadata | verified |
+| Dynamic Client Registration | yes |
+| Agentic Commerce | — |
+| Pagination Ratio | — |
+| Operation Distinctiveness | distinct |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 18.6** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/sprixen-com/](https://apis.io/providers/sprixen-com/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Sprixen: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/sprixen-com/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
